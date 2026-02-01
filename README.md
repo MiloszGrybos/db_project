@@ -343,7 +343,7 @@ Zapewnić, że zamówienie powstaje tylko wtedy, gdy:
 - stany magazynowe zostaną zaktualizowane,
 - koszyk zostanie wyczyszczony.
 
-### Przykładowy pseudokod (Python + sqlite3)
+### Przykład
 
 ```python
 def checkout(user_id):
